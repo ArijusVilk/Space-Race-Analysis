@@ -1,8 +1,9 @@
 # Space Race Analysis and Visualization
-![](https://cdn.dribbble.com/userupload/12240784/file/original-c17b37a4bc21bdafb0b3514b8d356550.gif)
+![rockeeee](https://github.com/ArijusVilk/Space-Race-Analysis/assets/119447450/69a9505b-0823-42a7-93d6-19a2880810c7)
 ## Project Overview:
 The Space Race project analyzes over 4300 space missions from 1957 to 2020. We look at which countries and organizations are involved, when the missions happened, what they aimed to achieve, their success rates, costs, and whether the rockets used are still active. We aim to spot trends in launch numbers, see how historical events like the Cold War influenced space activities, and understand which countries and organizations have been most active in space exploration. Our goal is to provide clear insights into how space exploration has evolved over time and its key drivers.
 ## Data Dictionary:
+
 
 | Variable                 | Description                                                 |
 |--------------------------|-------------------------------------------------------------|
