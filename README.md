@@ -14,7 +14,7 @@ The Space Race project analyzes over 4300 space missions from 1957 to 2020. We l
 | Date                     | Mission Date                                                |
 | Detail                   | Rocket Name                                                 |
 | Rocket_Status            | Represents if rocket is still active or retired             |
-| Price                    | Price of the whole mission                                  |
+| Price                    | Price of the whole mission in millions (MM)                 |
 | Mission_Status           | Shows whether the mission was successful or not             |
 
 
